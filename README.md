@@ -105,13 +105,14 @@ Here are some ideas to get you started:
 - I 👨‍🏫love to **share** my **knowledge** and **experience.
 - Always have eager to **learn new skills👨‍🎓**.
 
-<h3 align="left">Support:</h3>
+## **Support**
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jaisomii"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="https://www.buymeacoffee.com/jaisomii" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jaisomii"> 
+	<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="https://www.buymeacoffee.com/jaisomii" /></a></p><br><br>
 
-<p align="center">
+
 	
-
+<p align="center">
 	
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" />
 
