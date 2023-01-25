@@ -109,13 +109,22 @@ Here are some ideas to get you started:
 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jaisomii"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="https://www.buymeacoffee.com/jaisomii" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" /></p>
+<p align="center">
+	
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" /></p>
+	
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" /></p>
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" />
+	
+<img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" />
 
+</p>
+	
+	
+## **Let's Play**	
 
+	
 ![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif) 
   
 
