@@ -118,11 +118,11 @@ Here are some ideas to get you started:
 	
 <p align="center">
 	
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" />
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" />
+<img src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" />
 	
-<img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" />
 
 </p>
 	
