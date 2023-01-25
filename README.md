@@ -1,8 +1,11 @@
+
+
 <h1 align="center">Hello World <img src="https://github.com/jais-omii/jais-omii/blob/main/Assets/Hi.gif" width="40px"> I'm Om </h1>
-<h3 align="center">A passionate learner & Webdev from plant Earth</h3>
+<h2 align="center">A passionate learner & Webdev from plant Earth</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jais-omii&label=Profile%20views&color=0e75b6&style=flat" alt="jais-omii" /> </p>
 
+
+![GitHub followers](https://img.shields.io/github/followers/jais-omii?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jais-omii&label=PROFILE VIEWS  &color=red&style=flat" alt="jais-omii"/>
 
 <!--
 **jais-omii/jais-omii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
