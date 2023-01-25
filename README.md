@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jais-omii" alt="jais-omii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jais_omii" target="blank"><img src="https://img.shields.io/twitter/follow/jais_omii?logo=twitter&style=for-the-badge" alt="jais_omii" /></a> </p>
+
 
 - 🔭 I’m currently working on **DSA and problem solving**
 
@@ -29,10 +29,13 @@
 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jaisomii"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="https://www.buymeacoffee.com/jaisomii" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact" alt="jais-omii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jais-omii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jais-omii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en" alt="jais-omii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en&theme=tokyonight" alt="jais-omii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&" alt="jais-omii" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&theme=tokyonight" alt="jais-omii" /></p>
+
 
 ![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif)
+
+
