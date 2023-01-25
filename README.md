@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-## **Connect with me:**
+## **Connect with me🤞:**
 
   
  <!--
@@ -64,7 +64,9 @@ Here are some ideas to get you started:
 </a>
   
 
-## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+## **Languages and Tools**
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px">
