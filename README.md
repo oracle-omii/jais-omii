@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jais-omii&show_icons=true&locale=en" alt="jais-omii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jais-omii&" alt="jais-omii" /></p>
+
+![snake gif](https://github.com/jais-omii/jais-omii/blob/output/github-contribution-grid-snake.gif)
