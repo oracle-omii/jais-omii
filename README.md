@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 - Always have eager to **learn new skills👨‍🎓**.
 
 ## **Support**
-
-	<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jaisomii) -->
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jaisomii)
+ <!--	 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jaisomii"> 
 	<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="https://www.buymeacoffee.com/jaisomii" /></a></p><br><br>
-
+ -->
 
 	
 <p align="center">
